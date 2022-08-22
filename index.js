@@ -41,3 +41,6 @@ function searchElement(request, response) {
 	
 	response.send(reply);
 }
+
+//Final API created - https://states-districts-api.herokuapp.com/elements/BR
+//The state code must be provided at the end to get the districts information of that particular state code
